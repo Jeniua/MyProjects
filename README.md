@@ -1,7 +1,7 @@
 # MyProjects
 Projects by Yandex.Praktikum  
-> [Final project](https://github.com/Jeniua/MyProjects/tree/main/final_project)  
+ [Final project](https://github.com/Jeniua/MyProjects/tree/main/final_project)  
 
-| Attempt | #1  | #2  |
+| Название проекта | Описание  | Используемые библиотеки  |
 | :---:   | :-: | :-: |
-| Seconds | 301 | 283 |
+| [Final project](https://github.com/Jeniua/MyProjects/tree/main/final_project)  | Необходимо предсказать конечную температуру стали в производственном процессе | pandas, numpy, matplotlib, sklearn, xgboost, seaborn |
