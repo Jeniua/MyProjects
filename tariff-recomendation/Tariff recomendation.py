@@ -84,12 +84,6 @@ print(result)
 
 
 
-# ## Проверьте модель на тестовой
-# # Так как наиболее высокую точность показала модель дерева решений, то имеено её и проверим на тестовой выборке.
-#
-# # In[10]: выборке
-
-
 
 predictions_test = model_1.predict(features_test)
 accuracy_test = accuracy_score(target_test, predictions_test)
